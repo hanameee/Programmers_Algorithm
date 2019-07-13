@@ -37,7 +37,11 @@ public class FindPrime {
 	  
 	  public static void main(String[] args) {
 		  int n = 10;
-		  solution(n);
+		  String test = "hello";
+		  System.out.println(test+n);
+		  System.out.println(n+test);
+		  
+//		  solution(n);
 		  //result = 4;
 	  }
 }
